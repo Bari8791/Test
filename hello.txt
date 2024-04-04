@@ -1,6 +1,6 @@
 Hello Team
 
-***About Me***:
+***About Me***
 
 I am Abdulbari, but you can call me Bari.
 I am a self-learner in data analytics and data science.
