@@ -10,3 +10,11 @@ I have high expectations and strong motivation to excel in this course.
 Learning from EPFL, a globally renowned educational institute, excites me. I aim to benefit from their team's expertise in establishing a solid foundation in machine learning.
 Learning Python, especially in the context of machine learning, is a significant aspect of my learning journey.
 I am committed to completing the course project and obtaining academic credits.
+
+Reasons for Joining Applied Data Science: Machine Learning with EPFL:
+
+EPFL's reputation and expertise in education make it an ideal choice for advancing my skills in data science and machine learning.
+The program's focus on practical machine learning applications aligns perfectly with my career aspirations in the financial sector.
+Gaining academic credits for completing the course project is an added benefit.
+The opportunity to learn Python for machine learning directly from EPFL's resources is invaluable.
+I'm enthusiastic about the prospect of acquiring both theoretical knowledge and practical skills to excel in the field of data science.
