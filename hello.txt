@@ -1,6 +1,7 @@
 Hello Team
 
 About Me
+
 I am Abdulbari, but you can call me Bari.
 I am a self-learner in data analytics and data science.
 My recent experience includes working in the financial services sector, particularly in areas of commercial strategy and pricing, In this role, I heavily focused on business insight solutions, assisting teams in creating dynamic dashboards and visualizations Additionally, I worked on financial modeling with other business intelligence solutions.
